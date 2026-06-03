@@ -1,4 +1,4 @@
-# Reporet-Ventas-Clientes-Power-BI
+# Reporte-Ventas-Clientes-Power-BI
 
 ## Introducción
 Este dashboard fue creado para que **la gerencia de ventas**, pueda obtener una reporte facíl de entender.  
