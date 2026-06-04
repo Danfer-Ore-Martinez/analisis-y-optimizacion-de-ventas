@@ -16,9 +16,9 @@ Se realiza un analisis datos con el objetivo de tener una idea general del compo
 ![Reporte_ventas_clientes](3_Reporte-ventas-clientes-POWER-BI/docs/3_gif_reporte.gif)  
 Creación de un reporte en Power BI, se busca mostrar información relevante que apoye la toma de decisiones e informe la situación del negocio. 
 
-### Etapa 4: Simulación de Casos
-![Previsionn_ventas](docs/4_escenario_agresivo.png)  
-Se organiza la información, las restricciones y los parametros para realizar el analisis con solver.
+### Etapa 4: Simulación de Casos y Analisis
+![Simulacion_casos](4_Simulación-Analisis-Excel/docs/1_Reporte_Escenarios.png)  
+Se organiza la información, las restricciones y los parametros para realizar el analisis con solver, se establecen 3 situaciónes con objetivos diferentes.
 
 ## Habilidades Mostradas
   - **Esquema de Estrella**: Se implementa un esquema de estrella compuesto por una tabla de hechos principal `fact_ventas` y múltiples tablas de dimensiones, incluyendo `dim_clientes` y `dim_producto`
