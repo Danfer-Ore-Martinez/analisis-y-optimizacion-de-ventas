@@ -1,35 +1,46 @@
 # analisis-y-optimizacion-de-ventas
 
 ## Introducción
-Este es un proyecto completo, que busca representar las diferentes etapas de un ETL, demuestra la integración entre las diversas herramientas en cada etapa de este proyecto se cumple con un objetivo en específico.
 
-## Resumen del Reporte
-### Etapa 1: Data WareHouse
-![Estructura_DWH](1_DWH-Arquitectura-Medallón-SQL-SERVER/docs/estructura_dwh.png)  
-Esta etapa inicial busca crear una fuenta limpia y confiable de datos. 
+Este es un proyecto integral que busca representar las diferentes etapas de un proceso ETL y demostrar la integración entre diversas herramientas utilizadas en el análisis y la gestión de datos.
 
-### Etapa 2: Analisis de Datos
-![Estructura_analisis_datos](2_Analisis-de-Datos-SQL-SERVER/docs/ruta_del_proyecto.png)  
-Se realiza un analisis datos con el objetivo de tener una idea general del comportamiento de los datos y brindar información específica. 
+## Resumen del Proyecto
+
+### Etapa 1: Data Warehouse
+
+![Estructura\_DWH](1_DWH-Arquitectura-Medallón-SQL-SERVER/docs/estructura_dwh.png)
+
+Esta etapa inicial tiene como objetivo crear una fuente de datos limpia, confiable y estructurada para el análisis posterior.
+
+### Etapa 2: Análisis de Datos
+
+![Estructura\_analisis\_datos](2_Analisis-de-Datos-SQL-SERVER/docs/ruta_del_proyecto.png)
+
+Se realiza un análisis exploratorio de los datos con el objetivo de comprender su comportamiento general, identificar patrones relevantes y generar información de valor para el negocio.
 
 ### Etapa 3: Reporte de Ventas
-![Reporte_ventas_clientes](3_Reporte-ventas-clientes-POWER-BI/docs/3_gif_reporte.gif)  
-Creación de un reporte en Power BI, se busca mostrar información relevante que apoye la toma de decisiones e informe la situación del negocio. 
 
-### Etapa 4: Simulación de Casos y Analisis
-![Simulacion_casos](4_Simulación-Analisis-Excel/docs/1_Reporte_Escenarios.png)  
-Se organiza la información, las restricciones y los parametros para realizar el analisis con solver, se establecen 3 situaciónes con objetivos diferentes.
+![Reporte\_ventas\_clientes](3_Reporte-ventas-clientes-POWER-BI/docs/3_gif_reporte.gif)
 
-## Habilidades Mostradas
-  - **Esquema de Estrella**: Se implementa un esquema de estrella compuesto por una tabla de hechos principal `fact_ventas` y múltiples tablas de dimensiones, incluyendo `dim_clientes` y `dim_producto`
-- **Gráficos Relevantes**: Se emplean **gráficos de pie** y **barras** para analizar comparaciones y distribuciones.
-- **Diseño del Reporte**: Se diseña una interfaz clara, intuitiva y visualmente amigable, priorizando la simplicidad y enfocando cada sección en los elementos más relevantes para el análisis.
-- **Power Query**: Uso de `Power Query` para la transformación y limpieza de datos, elminación de nulos. 
-- **Vista de Diagrama**: Modelado de datos utilizando **Power Pivot** mediante la relación entre tablas `dim_clientes` y `dim_producto` y la tabla  `fact_ventas`, incluyendo la configuración de filtros unidireccionales.
-- **DAX**: Desarrollo de cálculos avanzados utilizando `DAX`, para calcular la mediana del precio por categoría.
-- **Tabla Dinámicas**: Se implementan tablas dínamicas para resumir información, aprovechando el modelado de datos, podemos realizar tablas dinamicas con filas de diferentes tablas.
+Se desarrolla un reporte interactivo en Power BI para visualizar indicadores clave, facilitar la toma de decisiones y comunicar el estado del negocio de manera clara y efectiva.
+
+### Etapa 4: Simulación de Escenarios y Análisis
+
+![Simulacion\_casos](4_Simulación-Analisis-Excel/docs/1_Reporte_Escenarios.png)
+
+Se organizan los datos, restricciones y parámetros necesarios para realizar simulaciones mediante Solver. Se plantean tres escenarios con objetivos distintos para evaluar alternativas y optimizar la toma de decisiones.
+
+## Habilidades Demostradas
+
+* **SQL Server:** Desarrollo de consultas avanzadas utilizando CTEs, expresiones CASE, funciones de ventana, agregaciones, JOINs, UNIONs, procedimientos almacenados y manejo de errores.
+* **Power BI:** Creación de visualizaciones interactivas mediante gráficos y filtros, utilizando Power Query, DAX, métricas y parámetros.
+* **Excel:** Uso de gráficos, tablas dinámicas, Power Query, Power Pivot, DAX y la herramienta Solver para análisis y simulación de escenarios.
+* **Herramientas de Planificación:** Planificación y seguimiento de cada etapa del proyecto mediante herramientas como Draw.io, Lucidchart y Notion, garantizando una ejecución organizada y alineada con los objetivos.
+
 ## Conclusiones
-Este reporte en Excel, busca implementar realizar una prevision de ventas para el año 2014, para ello se establece un modelo de estrella entre las tablas, se plantean diferentes escenarios de ventas y diferentes metas. 
+
+Para alcanzar los objetivos planteados, se emplean diferentes tecnologías, cada una con una función específica dentro del flujo de trabajo. La integración de estas herramientas permite construir una solución completa que abarca desde la preparación de datos hasta el análisis, la visualización y la optimización de escenarios para la toma de decisiones.
+
 
 ## Sobre Mi 
-Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, soy un Estudiante de Ing. Sistemas mi nombre es Danfer Marcelo Ore, me quiero especializar en análisis de datos, este proyecto busca demostrar mi manejo en Excel, principalmente, utilizando herramientas de ánalisis, toda la información de este reporte, proviene de una etapa anterior `1_DWH-Arquitectura-Medallón-SQL-SERVER`.
+Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, soy Estudiante de Ing. Sistemas mi nombre es Danfer Marcelo Ore, me quiero especializar en análisis de datos, este proyecto busca demostrar mi manejo en diferentes tecnología como SQL Server, Power Bi y Excel. 
