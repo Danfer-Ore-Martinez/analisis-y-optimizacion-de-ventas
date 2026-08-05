@@ -20,9 +20,9 @@ USOS:
 USE DataWareHouse;
 GO 
 
-/*============================
+/*======================================
 CREACION VIEW DIMENSION oro.dim_clientes
-============================*/
+======================================*/
 IF OBJECT_ID('oro.dim_clientes','V') IS NOT NULL
 	DROP VIEW oro.dim_clientes;
 GO
@@ -48,9 +48,9 @@ CREATE VIEW oro.dim_clientes AS(
 		ON cloc.cid = ci.cst_key
 );
 GO
-/*============================
+/*=======================================
 CREACION VIEW DIMENSION oro.dim_productos 
-============================*/
+=======================================*/
 IF OBJECT_ID('oro.dim_productos','V') IS NOT NULL
 	DROP VIEW oro.dim_productos;
 GO 
@@ -74,9 +74,9 @@ CREATE VIEW oro.dim_productos AS(
 	);
 GO
 
-/*===========================
+/*================================
 CREACION VIEW FACT oro.fact_ventas 
-===========================*/
+================================*/
 IF OBJECT_ID('oro.fact_ventas','V') IS NOT NULL
 	DROP VIEW oro.fact_ventas;
 GO 
