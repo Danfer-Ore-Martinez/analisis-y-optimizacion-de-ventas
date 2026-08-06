@@ -12,7 +12,7 @@ de reportes y análisis de datos. Esta dividida en dos tipo de tablas **Tablas d
 
 | Nombre Columna   | Tipo de Dato  | Descripción                                                                                   |
 |------------------|---------------|-----------------------------------------------------------------------------------------------|
-| cliente_llave    | INT           | Llave sustituta uníca encargada de identificar cada registro en la tabla dimensio.            |
+| cliente_llave    | INT           | Llave sustituta uníca encargada de identificar cada registro en la tabla dimension.           |
 | cliente_id       | INT           | Identificador unico asignado a cada cliente.                                                  |
 | codigo_cliente   | NVARCHAR(50)  | Identificador alfanumérico que representa a cada cliente, se usa para rastrear y referenciar. |
 | nombre           | NVARCHAR(50)  | Nombre del cliente.                                                                           |      
