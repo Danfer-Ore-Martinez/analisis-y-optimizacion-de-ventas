@@ -8,10 +8,10 @@ Este reporte muestra indicadores claros de ventas, analisis a lo largo del tiemp
 ## Resumen del Dashboard
 ### Página 1: Reporte de Ventas
 ![Dashboard Pagina 1](docs/1_reporte_ventas.png)
-Es una vista general de las ventas de la empresa. Se busca mostrar una tendencia a lo largo del año, visualizar que productos son los que más se venden, compración de ingresos entre diferentes años. Tambien se muestran KPIs como `Porcentaje de Cumplimiento` y `Número total de Ventas`, se implementa un gráfico de termometro para visualizar de mejor manera las ventas totales con el objetivo anual.
+Es una vista general de las ventas de la empresa. Se busca mostrar una tendencia a lo largo del año, visualizar que productos son los que más se venden, comparación de ingresos entre diferentes años. Tambien se muestran KPIs como `Porcentaje de Cumplimiento` y `Número total de Ventas`, se implementa un gráfico de termometro para visualizar de mejor manera las ventas totales con el objetivo anual.
 
 ### Página 2: Reporte de Clientes
-![Dashboard Pagina 1](docs/2_reporte_clientes.png)
+![Dashboard Pagina 2](docs/2_reporte_clientes.png)
 Es una vista centrada en información sobre los clientes; se muestran KPIs como `Tiempo Mediano de Atención`, `Compras Medianas por Cliente`, `Monto Mediano de Compra` y `Mediana Edad Clientes`. Se utilizan gráficos de dona y matrices para visualizar información detallada de los clientes. 
 
 ## Habilidades Mostradas
