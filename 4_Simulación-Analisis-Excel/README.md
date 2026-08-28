@@ -38,4 +38,4 @@ Reporte de Solver, escenario modesto, ventas de 6,000,000.
 Este reporte en Excel, busca implementar realizar una prevision de ventas para el año 2014, para ello se establece un modelo de estrella entre las tablas, se plantean diferentes escenarios de ventas y diferentes metas. 
 
 ## Sobre Mi 
-Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, soy un Estudiante de Ing. Sistemas mi nombre es Danfer Marcelo Ore, me quiero especializar en análisis de datos, este proyecto busca demostrar mi manejo en Excel, principalmente, utilizando herramientas de ánalisis, toda la información de este reporte, proviene de una etapa anterior `1_DWH-Arquitectura-Medallón-SQL-SERVER`.
+Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, soy un Estudiante de Ing. Sistemas mi nombre es Danfer Marcelo Ore, este proyecto busca demostrar mi manejo en Excel, principalmente, utilizando herramientas de ánalisis, toda la información de este reporte, proviene de una etapa anterior `1_DWH-Arquitectura-Medallón-SQL-SERVER`.
