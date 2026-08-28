@@ -33,4 +33,4 @@ Es una vista centrada en información sobre los clientes; se muestran KPIs como 
 Este Dashboard muestra cómo Power BI puede transformar información cruda en un reporte completo, lleno de información, este reporte ayuda en la toma de decisiones de gerentes o jefes de área. Se utilizan filtros para poder filtrar y segmentar la información con el objetivo de un mejor entendimiento.
 
 ## Sobre Mi 
-Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, soy un Estudiante de Ing. Sistemas mi nombre es Danfer Marcelo Ore, me quiero especializar en análisis de datos, esta tercera parte del proyecto busca mostrar mi manejo en POWER Bi y mi capacidad de implementar diversas herramientas, los datos de este proyecto provienen de una etapa anterior`1_DWH-Arquitectura-Medallón-SQL-SERVER`.
+Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, soy un Estudiante de Ing. Sistemas mi nombre es Danfer Marcelo Ore, esta tercera parte del proyecto busca mostrar mi manejo en POWER Bi y mi capacidad de implementar diversas herramientas, los datos de este proyecto provienen de una etapa anterior`1_DWH-Arquitectura-Medallón-SQL-SERVER`.
