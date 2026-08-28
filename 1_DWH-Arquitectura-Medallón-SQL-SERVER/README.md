@@ -18,4 +18,4 @@ Para el desarrolo y creación de este DWH se utilizará la arquitectura de medal
 3. **Modelamiento de los Datos**: Los datos se modelan siguiendo un esquema de estrella, es decir tablas dimension y tablas fact.
 ---
 ## Sobre mi 
-Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, mi nombre es Danfer Marcelo Ore, a fecha de finalización (2026-02-09) de este proyecto soy estudiante de ING. Sistemas, actualmente me encuentro en cuarto ciclo, el propósito de este proyecto es mostrar mis capacidades tanto en el manejo de SQL server, como en planificación y estructuración de proyectos. Gracias por leer.
+Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, mi nombre es Danfer Marcelo Ore, soy estudiante de ING. Sistemas, el propósito de este proyecto es mostrar mis capacidades tanto en el manejo de SQL server, como en planificación y estructuración de proyectos. Gracias por leer.
