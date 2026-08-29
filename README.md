@@ -29,7 +29,13 @@ Se desarrolla un reporte interactivo en Power BI para visualizar indicadores cla
 ![Simulacion\_casos](4_Simulación-Analisis-Excel/docs/1_Reporte_Escenarios.png)
 
 Se organizan los datos, restricciones y parámetros necesarios para realizar simulaciones mediante Solver. Se plantean tres escenarios con objetivos distintos para evaluar alternativas y optimizar la toma de decisiones.
-
+## Hallazgos 
+- La venta de bicicletas representa el 96% de los ingresos, sin embargo, representa el 37% del total de productos vendidos.
+- Se tiene poca diversificación de la cartera de productos, prueba de ellos es que las bicicletas de carretera, representan el 50% de los ingresos totales de la empresa, y las bicicletas de montaña representan el 33.9%.
+- Los productos que más se venden son los accesorios siendo el 44% de total de productos vendidos, pero representando apenas el 2.3% de los ingresos totales.
+- En términos generales, el año 2012, fue bajo, sin embargo el año 2013, fue extraordinariamente alto, pese a ello el año 2014 ha tenido un muy mal inicio, siendo inferior en ventas que el año 2012 el año antes tenía el peor rendimiento.
+- La gran mayoría de ingresos, provienen de países del primer mundo liderando en esto Estados Unidos seguido por varios países de la Unión Europea.
+- Se tiene una gran diversificación de la cartera de clientes, siendo que el cliente que más ingresos nos ha generado apenas representa el 2.89% de los ingresos totales.
 ## Habilidades Demostradas
 
 * **SQL Server:** Desarrollo de consultas avanzadas utilizando CTEs, expresiones CASE, funciones de ventana, agregaciones, JOINs, UNIONs, procedimientos almacenados y manejo de errores.
